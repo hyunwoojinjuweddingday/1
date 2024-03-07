@@ -14,7 +14,6 @@ import gif02 from './Img/gif02_.gif';
 import img001 from './Img/p01.webp';
 import img002 from './Img/p02.webp';
 import img003 from './Img/p03.webp';
-import img004 from './Img/p04.webp';
 import img005 from './Img/p05.webp';
 import img006 from './Img/p06.webp';
 import img008 from './Img/p08.webp';
