@@ -17,7 +17,7 @@ import img003 from './Img/p03.webp';
 import img005 from './Img/p05.webp';
 import img006 from './Img/p06.webp';
 import img008 from './Img/p08.webp';
-import img009 from './Img/p09.webp';
+import img009 from './Img/img009_11zon.png';
 import img0010 from './Img/img10.webp';
 import main from './Img/main_11zon.png';
 
