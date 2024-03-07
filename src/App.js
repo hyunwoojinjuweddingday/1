@@ -13,7 +13,7 @@ import gif01 from './Img/gif01_.gif';
 import gif02 from './Img/gif02_.gif';
 import img001 from './Img/p01.webp';
 import img002 from './Img/p02.webp';
-import img003 from './Img/p03.webp';
+import img003 from './Img/img.png';
 import img005 from './Img/p05.webp';
 import img006 from './Img/p06.webp';
 import img008 from './Img/p08.webp';
@@ -199,7 +199,7 @@ const Img2 = styled.img`
   height: auto;
   width: 350px;
   height: 70%;
-  margin-top: 130px;
+  margin-top: 100px;
   margin-bottom: 110px;
 `
 
@@ -297,7 +297,7 @@ margin-bottom: 50px;
 }
   .slick-slide img {
   position: relative;
-  object-fit: cover;
+  object-fit: contain;
   height: 620px;
   width: 100%;
   box-sizing: border-box;
@@ -326,7 +326,7 @@ margin-bottom: 50px;
     text-align: center;
     padding: 0;
     list-style: none;
-    bottom: -30px;
+    bottom: -15px;
     li {
       float: none;
       display: inline-block;
