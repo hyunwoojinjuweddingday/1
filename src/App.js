@@ -20,6 +20,7 @@ import img008 from './Img/p08.webp';
 import img009 from './Img/img009_11zon.png';
 import img0010 from './Img/img10.webp';
 import main from './Img/main_11zon.png';
+import img09 from './Img/p09.webp';
 
 
 
@@ -134,7 +135,7 @@ const settings = {
         <img src={img001} loading="lazy"/>
         </div>
         <div>
-        <img src={img009} loading="lazy"/>
+        <img src={img09} loading="lazy"/>
         </div>
         <div>
         <img src={img0010} loading="lazy"/>
